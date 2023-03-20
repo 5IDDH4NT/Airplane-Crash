@@ -41,7 +41,7 @@ const RadialBarChart = () => {
           </div>
         ))}
       </div>
-    </>
+    </> 
   );
 }
 

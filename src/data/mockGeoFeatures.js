@@ -90,6 +90,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Angola",
+        value: '41',
       },
       geometry: {
         type: "MultiPolygon",
@@ -221,6 +222,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "United Arab Emirates",
+        value: '6',
       },
       geometry: {
         type: "Polygon",
@@ -257,6 +259,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Argentina",
+        value: '44',
       },
       geometry: {
         type: "MultiPolygon",
@@ -1157,6 +1160,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Australia",
+        value: '63',
       },
       geometry: {
         type: "MultiPolygon",
@@ -1418,6 +1422,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Austria",
+        value: '4',
       },
       geometry: {
         type: "Polygon",
@@ -1469,6 +1474,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Azerbaijan",
+        value: '5',
       },
       geometry: {
         type: "MultiPolygon",
@@ -1560,6 +1566,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Belgium",
+        value: '16',
       },
       geometry: {
         type: "Polygon",
@@ -1589,6 +1596,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Benin",
+        value: '1',
       },
       geometry: {
         type: "Polygon",
@@ -1681,6 +1689,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Bangladesh",
+        value: '3',
       },
       geometry: {
         type: "Polygon",
@@ -1731,6 +1740,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Bulgaria",
+        value: '10',
       },
       geometry: {
         type: "Polygon",
@@ -1773,6 +1783,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "The Bahamas",
+        value: '9',
       },
       geometry: {
         type: "MultiPolygon",
@@ -1854,6 +1865,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Belarus",
+        value: '1',
       },
       geometry: {
         type: "Polygon",
@@ -1946,6 +1958,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Bolivia",
+        value: '44',
       },
       geometry: {
         type: "Polygon",
@@ -2260,6 +2273,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Bhutan",
+        value: '1',
       },
       geometry: {
         type: "Polygon",
@@ -2287,6 +2301,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Botswana",
+        value: '2',
       },
       geometry: {
         type: "Polygon",
@@ -2341,6 +2356,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Central African Republic",
+        value: '31',
       },
       geometry: {
         type: "Polygon",
@@ -2417,6 +2433,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Canada",
+        value: '126',
       },
       geometry: {
         type: "MultiPolygon",
@@ -3344,6 +3361,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Switzerland",
+        value: '19',
       },
       geometry: {
         type: "Polygon",
@@ -3382,6 +3400,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Chile",
+        value: '23',
       },
       geometry: {
         type: "MultiPolygon",
@@ -3516,6 +3535,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "China",
+        value: 78,
       },
       geometry: {
         type: "MultiPolygon",
@@ -3836,6 +3856,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Cameroon",
+        value: 11,
       },
       geometry: {
         type: "Polygon",
@@ -3911,6 +3932,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Democratic Republic of the Congo",
+        value: 16,
       },
       geometry: {
         type: "Polygon",
@@ -4047,6 +4069,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Republic of the Congo",
+        value: 16,
       },
       geometry: {
         type: "Polygon",
@@ -4110,6 +4133,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Colombia",
+        value: 143,
       },
       geometry: {
         type: "Polygon",
@@ -4224,6 +4248,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Costa Rica",
+        value: 12,
       },
       geometry: {
         type: "Polygon",
@@ -4274,6 +4299,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Cuba",
+        value: 13,
       },
       geometry: {
         type: "Polygon",
@@ -4360,6 +4386,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Cyprus",
+        value: 4,
       },
       geometry: {
         type: "Polygon",
@@ -4389,6 +4416,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Czech Republic",
+        value: 15,
       },
       geometry: {
         type: "Polygon",
@@ -4438,6 +4466,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Germany",
+        value: 5,
       },
       geometry: {
         type: "Polygon",
@@ -4539,6 +4568,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Denmark",
+        value: 10,
       },
       geometry: {
         type: "MultiPolygon",
@@ -4583,6 +4613,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Dominican Republic",
+        value: 12,
       },
       geometry: {
         type: "Polygon",
@@ -4623,6 +4654,7 @@ export const geoFeatures = {
       type: "Feature",
       properties: {
         name: "Algeria",
+        value: 18,
       },
       geometry: {
         type: "Polygon",
